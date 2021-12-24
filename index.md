@@ -3,9 +3,11 @@
 
 
 ## 中文测试
-
-<embed src="TheWonderOfYou.mp3" width="172" height="63" align="TOP"autostart="false"></embed>
-
+&nbsp
+## 中文测试2
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="TheWonderOfYou.mp3">
+</audio>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
