@@ -5,10 +5,7 @@
 <br/>
 
 ## 传达一首歌需要一次奈奎斯特采样和一串数字信号
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="TheWonderOfYou.mp3">
-</audio>
-<br/>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=435552105&auto=1&height=66"></iframe>
 <br/>
 <br/>
 ## 传达一个网页需要一份http协议和一个云端服务器
